@@ -10,3 +10,26 @@
     font-style: normal;
 
 }
+
+.thumb img  {
+    border: 3px solid #FFFFFF; /* Рамка вокруг фотографии */
+    padding: 3px; /* Расстояние от картинки до рамки */
+    background: #191919; /* Цвет фона */
+    margin-right: 15px; /* Отступ справа */
+    margin-bottom: 1px; /* Отступ снизу */
+   }
+
+.url img  {
+    border: 3px solid #FFFFFF; /* Рамка вокруг фотографии */
+    padding: 3px; /* Расстояние от картинки до рамки */
+    background: #	; /* Цвет фона */
+    margin-right: 1px; /* Отступ справа */
+    margin-bottom: 1px; /* Отступ снизу */
+   }
+
+.mtext {
+    padding: 3px; /* Расстояние от картинки до рамки */
+    background: #242424	; /* Цвет фона */
+    margin-right: 1px; /* Отступ справа */
+    margin-bottom: 1px; /* Отступ снизу */
+}
