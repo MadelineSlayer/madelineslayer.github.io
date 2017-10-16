@@ -34,3 +34,8 @@
     margin-bottom: 1px; /* Отступ снизу */
     width: 870px;
 }
+
+.skrin img  {
+    border: 3px solid #FFFFFF; /* Рамка вокруг фотографии */
+    background: #	; /* Цвет фона */
+   }
